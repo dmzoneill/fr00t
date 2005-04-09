@@ -1,0 +1,12 @@
+bin\Debug\Fr00t.exe
+bin\Debug\Fr00t.pdb
+bin\Debug\Fr00t.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Fr00t.Form1.resources
+obj\Debug\Fr00t.Form2.resources
+obj\Debug\Fr00t.Resources.resources
+obj\Debug\Fr00t.vbproj.GenerateResource.Cache
+obj\Debug\Fr00t.exe
+obj\Debug\Fr00t.xml
+obj\Debug\Fr00t.pdb
+obj\Debug\Fr00t.Dialog1.resources
