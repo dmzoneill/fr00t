@@ -1,5 +1,9 @@
 # Fr00t
 
+<p align="center">
+  <img src=".github/logo.png" alt="fr00t logo" width="128" />
+</p>
+
 A Windows Forms tool that watches for programs that are not on an
 allowed list.
 
